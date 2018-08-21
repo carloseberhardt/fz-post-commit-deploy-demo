@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Flow-Callout" version="SHA-512:2b22f0494151c3c914de8e76ab90f87935af28009f0ce11de1335e5b6079d26e20d5f9b3e72577d7f63da092683404648387214706aa02a406ca0d216e6c278f"/>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:ad904e5e1b5ad39b8b9b31592b647ef034a6e4ee5a2d9fafe2021efed03205381c2821d75b2d043b01fc41dec97717e3aad79a830ad4f8a3cbfca74ea05f5201"/>
+        <VersionInfo resourceName="Verify-API-Key" version="SHA-512:30c638167a339424b02f58846eb4d8b9405213827b6a57ba7a7123ad3d96bbd50cb3930f746b1178525dea3e495374c9582898504494a182b18a71b1d6af6714"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:f9d9b8db50349378003e15bc6e98973f10b80fe6a9909d93a139026057fccffc29caa10aa639491adfe6e77bb80f3d9e6476f31fdebd3a70a8a9c9d18aa584c4"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:9e58609a56c0cb66b1395126e5d60c9a370bc4ce2945cd31a7d95011079429f706395ef782a13cda6623c95878afdf9697e11868782cab428fb1060ae4232814"/>
+    </TargetEndpoints>
+</Manifest>
