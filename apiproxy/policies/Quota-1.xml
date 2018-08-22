@@ -2,7 +2,7 @@
 <Quota async="false" continueOnError="false" enabled="true" name="Quota-1">
     <DisplayName>Quota-1</DisplayName>
     <Properties/>
-    <Allow count="1000"/>
+    <Allow count="2000"/>
     <Interval>1</Interval>
     <TimeUnit>month</TimeUnit>
     <MessageWeight ref="response.header.content-length"/>
